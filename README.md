@@ -1,6 +1,6 @@
 # Electronics Store Sales Analysis
 
-Analysis and solving business questions over randomly generated buy-sell data of an electronic store for the year of 2019  in USA.
+Analysis and solving business questions over randomly generated buy-sell data of an electronic store for the year of 2019  in USA. The a
 
 ## Question 1: What was the best month for sales? How much was earned that month?
 
@@ -18,3 +18,4 @@ San Francisco (CA) having more than 8 million dollars in sales is the highest re
 Most number of customers tend to buy products at 11 am (11) and 7 pm (19). So, the advertisements should be displayed before 11 am and 7 pm to maximize the likelihood of customer's buying product
 
 ![](Images/q_3.png)
+

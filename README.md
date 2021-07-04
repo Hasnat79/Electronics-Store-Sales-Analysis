@@ -1,6 +1,6 @@
 # Electronics Store Sales Analysis
 
-Analysis and solving business questions over randomly generated sales data of an electronic store for the year of 2019  in USA. The jupyter notebook file is [here](./analysis.ipynb)
+Analysis and solving business questions over randomly generated sales data of an electronic store for the year of 2019  in USA. The jupyter notebook file is **[](./analysis.ipynb)**  
 
 ## Question 1: What was the best month for sales? How much was earned that month?
 

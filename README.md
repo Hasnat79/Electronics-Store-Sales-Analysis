@@ -4,5 +4,5 @@ Analysis and solving business questions over randomly generated buy-sell data of
 
 ## Question 1: What was the best month for sales? How much was earned that month?
 
-
+![](Images/q_1.png)
 

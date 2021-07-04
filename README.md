@@ -1,6 +1,6 @@
 # Electronics Store Sales Analysis
 
-Analysis and solving business questions over randomly generated buy-sell data of an electronic store for the year of 2019  in USA. The jupyter notebook file is [here](./analysis.ipynb)  
+Analysis and solving business questions over randomly generated buy-sell data of an electronic store for the year of 2019  in USA. The jupyter notebook file is ![here](./analysis.ipynb)  
 
 ## Question 1: What was the best month for sales? How much was earned that month?
 
@@ -28,6 +28,6 @@ We can see that customers bought iPhone and Lightning Charging Cable on most num
 
 ## Question 5: What product sold the most? What can be the reason behind it?
 
-AA and AAA battery packs were sold most (green bars) because their price is comparatively lesser then other products (follow blue line). On the contrary, 
+AA and AAA battery packs were sold most (green bars) because their price is comparatively lesser then other products (follow blue line). On the contrary, the price of macbook pro laptop and thinkpad laptop were among the highest. As a result, these products were sold in moderate numbers
 
 ![](Images/q_5.png)
